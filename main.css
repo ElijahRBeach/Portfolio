@@ -4,7 +4,8 @@ body {
 }
 
 html {
-    background-image: url(https://venngage-wordpress.s3.amazonaws.com/uploads/2018/09/Natural-Wood-Panels-Simple-Background-Image.jpeg;);
+    /* background-image: url(https://venngage-wordpress.s3.amazonaws.com/uploads/2018/09/Natural-Wood-Panels-Simple-Background-Image.jpeg;); */
+    background-color: black;
     height: 500px;
     background-position: center; 
     background-repeat: no-repeat; 

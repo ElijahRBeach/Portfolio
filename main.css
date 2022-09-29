@@ -4,7 +4,7 @@ body {
 }
 
 html {
-    background-image: url(https://venngage-wordpress.s3.amazonaws.com/uploads/2018/09/Natural-Wood-Panels-Simple-Background-Image.jpeg;);
+    background-image: url(https://picjumbo.com/wp-content/uploads/calm-dark-blue-sea-background-free-photo-1080x810.jpg);
     /* background-color: black; */
     height: 500px;
     background-position: center; 
@@ -51,7 +51,7 @@ img {
 
 #navbar {
     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-    color: blue;
+    color: red;
     font-size: arge;
 }
 
